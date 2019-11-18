@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">La Pocha IDR</string>
+    <string name="text_preview">La Pocha IDR</string>
+    <string name="textview_xgroups_n">Nº de personas por grupo</string>
+    <string name="textview_ngroups_n">Nº de grupos</string>
+    <string name="textview_groups_ptps">Selecciona participantes</string>
+    <string name="edittext_n_hint">4</string>
+    <string name="edittext_n_default">4</string>
+    <string name="button_start">Procastinar</string>
+    <string name="button_groups_ptps">Ptps</string>
+    <string name="button_groups_gen">Generar grupos</string>
+    <string name="title_activity_users">UsersActivity</string>
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="share">Share</string>
+    <string name="popup_add_user">Enter new user.</string>
+    <string name="ok">OK</string>
+    <string name="popup_add_user_hint">Enter Username</string>
+    <string name="button_players_start">!2 Minutos!</string>
+    <string name="textview_players_ptps">Selecciona Procastinadores</string>
+    <string name="title_activity_start">Fichaje de Becarios</string>
+    <string name="title_activity_input_score">InputScore</string>
+</resources>
